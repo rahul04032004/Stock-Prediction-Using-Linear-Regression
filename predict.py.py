@@ -13,7 +13,7 @@ from sklearn.metrics import r2_score
 from pandas.tseries.offsets import BDay  # For business days
 
 # Set your Alpha Vantage API key
-API_KEY = '89SN94A059MA1JLL'  # Replace with your API key
+API_KEY = '7Q3UX1ZBNKCC4NKP'  # Replace with your API key
 
 # Function to fetch stock data from Alpha Vantage
 def fetch_alpha_vantage_data(symbol, start_date, end_date):
